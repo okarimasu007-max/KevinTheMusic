@@ -1,0 +1,6 @@
+{
+  "name": "KevinTheMusic",
+  "description": "Ciptakan, dengarkan, dan rayakan soundtrack perjalanan hidup Anda dengan pemutar musik interaktif dan kurasi kecerdasan buatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
